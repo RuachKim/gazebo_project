@@ -1,0 +1,7 @@
+[2022-02-04 11:57:18.758] [sharedprocess] [info] main {"machineId":"3424b72ee104e99be183dc60a7b751a058f3ff95747d04922fb59889f7e032b1","windowId":2}
+[2022-02-04 11:57:21.001] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-02-04 11:57:21.395] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/692664fb-dc07-45a8-bbfb-4503a2e425aa
+[2022-02-04 11:57:23.134] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.cpptools-0.27.1: ms-vscode.cpptools
+[2022-02-04 11:57:23.135] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.cpptools-0.27.1
+[2022-02-04 11:57:23.141] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2022-02-04 11:57:23.182] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
